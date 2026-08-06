@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "gtx-1660-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "GTX 1660 Super",
+    "price": 2290,
+    "image": "/images/default/black.jpg",
+    "length": 229,
+    "vramGb": 6,
+    "memoryType": "GDDR6",
+    "powerDraw": 125,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "3.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "gtx-1660-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "GTX 1660 Ti",
+    "price": 2790,
+    "image": "/images/default/black.jpg",
+    "length": 229,
+    "vramGb": 6,
+    "memoryType": "GDDR6",
+    "powerDraw": 120,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "3.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-2060",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 2060",
+    "price": 3490,
+    "image": "/images/default/black.jpg",
+    "length": 230,
+    "vramGb": 6,
+    "memoryType": "GDDR6",
+    "powerDraw": 160,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "3.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-2060-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 2060 Super",
+    "price": 3990,
+    "image": "/images/default/black.jpg",
+    "length": 230,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 175,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "3.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-2070",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 2070",
+    "price": 4990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 175,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "3.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-2070-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 2070 Super",
+    "price": 4990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 215,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "3.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-2080",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 2080",
+    "price": 6990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 215,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "3.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-2080-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 2080 Super",
+    "price": 6990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 250,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "3.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-2080-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 2080 Ti",
+    "price": 9990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 11,
+    "memoryType": "GDDR6",
+    "powerDraw": 250,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "3.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-3050",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 3050",
+    "price": 2490,
+    "image": "/images/default/black.jpg",
+    "length": 230,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 130,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-3060",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 3060",
+    "price": 3290,
+    "image": "/images/default/black.jpg",
+    "length": 242,
+    "vramGb": 12,
+    "memoryType": "GDDR6",
+    "powerDraw": 170,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-3060-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 3060 Ti",
+    "price": 3990,
+    "image": "/images/default/black.jpg",
+    "length": 242,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 200,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-3070",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 3070",
+    "price": 4990,
+    "image": "/images/default/black.jpg",
+    "length": 242,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 220,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-3070-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 3070 Ti",
+    "price": 5990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 8,
+    "memoryType": "GDDR6X",
+    "powerDraw": 290,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-3080",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 3080",
+    "price": 6990,
+    "image": "/images/default/black.jpg",
+    "length": 285,
+    "vramGb": 10,
+    "memoryType": "GDDR6X",
+    "powerDraw": 320,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-3080-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 3080 Ti",
+    "price": 11990,
+    "image": "/images/default/black.jpg",
+    "length": 285,
+    "vramGb": 12,
+    "memoryType": "GDDR6X",
+    "powerDraw": 350,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-3090",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 3090",
+    "price": 14990,
+    "image": "/images/default/black.jpg",
+    "length": 313,
+    "vramGb": 24,
+    "memoryType": "GDDR6X",
+    "powerDraw": 350,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-3090-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 3090 Ti",
+    "price": 19990,
+    "image": "/images/default/black.jpg",
+    "length": 313,
+    "vramGb": 24,
+    "memoryType": "GDDR6X",
+    "powerDraw": 450,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-4060",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 4060",
+    "price": 2990,
+    "image": "/images/default/black.jpg",
+    "length": 245,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 115,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x8",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-4060-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 4060 Ti",
+    "price": 3990,
+    "image": "/images/default/black.jpg",
+    "length": 245,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 160,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x8",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-4070",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 4070",
+    "price": 5990,
+    "image": "/images/default/black.jpg",
+    "length": 245,
+    "vramGb": 12,
+    "memoryType": "GDDR6X",
+    "powerDraw": 200,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-4070-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 4070 Super",
+    "price": 5990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 12,
+    "memoryType": "GDDR6X",
+    "powerDraw": 220,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-4070-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 4070 Ti",
+    "price": 7990,
+    "image": "/images/default/black.jpg",
+    "length": 285,
+    "vramGb": 12,
+    "memoryType": "GDDR6X",
+    "powerDraw": 285,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-4070-ti-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 4070 Ti Super",
+    "price": 7990,
+    "image": "/images/default/black.jpg",
+    "length": 304,
+    "vramGb": 16,
+    "memoryType": "GDDR6X",
+    "powerDraw": 285,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-4080",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 4080",
+    "price": 11990,
+    "image": "/images/default/black.jpg",
+    "length": 304,
+    "vramGb": 16,
+    "memoryType": "GDDR6X",
+    "powerDraw": 320,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-4080-super",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 4080 Super",
+    "price": 9990,
+    "image": "/images/default/black.jpg",
+    "length": 304,
+    "vramGb": 16,
+    "memoryType": "GDDR6X",
+    "powerDraw": 320,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-4090",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 4090",
+    "price": 15990,
+    "image": "/images/default/black.jpg",
+    "length": 336,
+    "vramGb": 24,
+    "memoryType": "GDDR6X",
+    "powerDraw": 450,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-5060",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 5060",
+    "price": 2990,
+    "image": "/images/default/black.jpg",
+    "length": 245,
+    "vramGb": 8,
+    "memoryType": "GDDR7",
+    "powerDraw": 150,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "5.0",
+    "pcieLanes": "x8",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-5060-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 5060 Ti",
+    "price": 4290,
+    "image": "/images/default/black.jpg",
+    "length": 245,
+    "vramGb": 16,
+    "memoryType": "GDDR7",
+    "powerDraw": 180,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "5.0",
+    "pcieLanes": "x8",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-5070",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 5070",
+    "price": 5490,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 12,
+    "memoryType": "GDDR7",
+    "powerDraw": 250,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "5.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-5070-ti",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 5070 Ti",
+    "price": 7490,
+    "image": "/images/default/black.jpg",
+    "length": 304,
+    "vramGb": 16,
+    "memoryType": "GDDR7",
+    "powerDraw": 300,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "5.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-5080",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 5080",
+    "price": 9990,
+    "image": "/images/default/black.jpg",
+    "length": 304,
+    "vramGb": 16,
+    "memoryType": "GDDR7",
+    "powerDraw": 360,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "5.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rtx-5090",
+    "category": "gpu",
+    "brand": "NVIDIA",
+    "name": "RTX 5090",
+    "price": 19990,
+    "image": "/images/default/black.jpg",
+    "length": 336,
+    "vramGb": 32,
+    "memoryType": "GDDR7",
+    "powerDraw": 575,
+    "powerConnectors": [
+      "16pin"
+    ],
+    "pcieVersion": "5.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-5600-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 5600 XT",
+    "price": 2790,
+    "image": "/images/default/black.jpg",
+    "length": 240,
+    "vramGb": 6,
+    "memoryType": "GDDR6",
+    "powerDraw": 150,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-5700",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 5700",
+    "price": 3490,
+    "image": "/images/default/black.jpg",
+    "length": 272,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 180,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-5700-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 5700 XT",
+    "price": 3990,
+    "image": "/images/default/black.jpg",
+    "length": 272,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 225,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-6600",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 6600",
+    "price": 3290,
+    "image": "/images/default/black.jpg",
+    "length": 240,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 132,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x8",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-6600-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 6600 XT",
+    "price": 3790,
+    "image": "/images/default/black.jpg",
+    "length": 240,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 160,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x8",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-6650-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 6650 XT",
+    "price": 3990,
+    "image": "/images/default/black.jpg",
+    "length": 240,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 180,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x8",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-6700-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 6700 XT",
+    "price": 4790,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 12,
+    "memoryType": "GDDR6",
+    "powerDraw": 230,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-6750-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 6750 XT",
+    "price": 5490,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 12,
+    "memoryType": "GDDR6",
+    "powerDraw": 250,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-6800",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 6800",
+    "price": 5790,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 250,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-6800-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 6800 XT",
+    "price": 6490,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 300,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-6900-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 6900 XT",
+    "price": 9990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 300,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-6950-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 6950 XT",
+    "price": 10990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 335,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-7600",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 7600",
+    "price": 2690,
+    "image": "/images/default/black.jpg",
+    "length": 204,
+    "vramGb": 8,
+    "memoryType": "GDDR6",
+    "powerDraw": 165,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x8",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-7600-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 7600 XT",
+    "price": 3290,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 190,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x8",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-7700-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 7700 XT",
+    "price": 4490,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 12,
+    "memoryType": "GDDR6",
+    "powerDraw": 245,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-7800-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 7800 XT",
+    "price": 4990,
+    "image": "/images/default/black.jpg",
+    "length": 267,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 263,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-7900-gre",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 7900 GRE",
+    "price": 5490,
+    "image": "/images/default/black.jpg",
+    "length": 276,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 260,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-7900-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 7900 XT",
+    "price": 8990,
+    "image": "/images/default/black.jpg",
+    "length": 276,
+    "vramGb": 20,
+    "memoryType": "GDDR6",
+    "powerDraw": 315,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-7900-xtx",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 7900 XTX",
+    "price": 9990,
+    "image": "/images/default/black.jpg",
+    "length": 287,
+    "vramGb": 24,
+    "memoryType": "GDDR6",
+    "powerDraw": 355,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "4.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-9060-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 9060 XT",
+    "price": 3490,
+    "image": "/images/default/black.jpg",
+    "length": 245,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 180,
+    "powerConnectors": [
+      "8pin"
+    ],
+    "pcieVersion": "5.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-9070",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 9070",
+    "price": 5490,
+    "image": "/images/default/black.jpg",
+    "length": 287,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 220,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "5.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  },
+  {
+    "id": "rx-9070-xt",
+    "category": "gpu",
+    "brand": "AMD",
+    "name": "RX 9070 XT",
+    "price": 5990,
+    "image": "/images/default/black.jpg",
+    "length": 287,
+    "vramGb": 16,
+    "memoryType": "GDDR6",
+    "powerDraw": 304,
+    "powerConnectors": [
+      "8+8"
+    ],
+    "pcieVersion": "5.0",
+    "pcieLanes": "x16",
+    "videoOutputs": [
+      "HDMI",
+      "DP"
+    ],
+    "stock": 10
+  }
+]

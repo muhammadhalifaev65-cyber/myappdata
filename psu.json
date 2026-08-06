@@ -1,0 +1,62 @@
+[
+  {
+    "id": "deepcool-pf600",
+    "category": "psu",
+    "brand": "Deepcool",
+    "name": "PF600",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "wattage": 600,
+    "efficiency": "80+",
+    "modular": "Non",
+    "cpuConnectors": ["8pin"],
+    "gpuConnectors": ["8pin"],
+    "has16pin": false,
+    "sataConnectors": 4
+  },
+  {
+    "id": "deepcool-pf600x",
+    "category": "psu",
+    "brand": "Deepcool",
+    "name": "PF600X",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "wattage": 600,
+    "efficiency": "80+ Bronze",
+    "modular": "Non",
+    "cpuConnectors": ["8pin"],
+    "gpuConnectors": ["8pin"],
+    "has16pin": false,
+    "sataConnectors": 4
+  },
+  {
+    "id": "deepcool-pf700x",
+    "category": "psu",
+    "brand": "Deepcool",
+    "name": "PF700X",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "wattage": 700,
+    "efficiency": "80+ Bronze",
+    "modular": "Non",
+    "cpuConnectors": ["8+4"],
+    "gpuConnectors": ["8+8"],
+    "has16pin": false,
+    "sataConnectors": 5
+  },
+  {
+    "id": "deepcool-pq750g",
+    "category": "psu",
+    "brand": "Deepcool",
+    "name": "PQ750G",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "wattage": 750,
+    "efficiency": "80+ Gold",
+    "modular": "Full",
+    "cpuConnectors": ["8+8"],
+    "gpuConnectors": ["8+8"],
+    "has16pin": false,
+    "sataConnectors": 6
+  }
+]
