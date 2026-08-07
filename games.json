@@ -1,7 +1,7 @@
 {
   "cs2": {
     "name": "Counter-Strike 2",
-    "image": "/images/games/cs2.jpg",
+    "image": "https://raw.githubusercontent.com/muhammadhalifaev65-cyber/myappdata/refs/heads/main/images/cs2.jpg",
     "genre": "Шутер",
     "year": 2023,
     "description": "Соревновательный командный шутер от Valve.",
