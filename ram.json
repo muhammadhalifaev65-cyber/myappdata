@@ -1,0 +1,50 @@
+[
+  {
+    "id": "corsair-rgb-ddr4-3200-8gb",
+    "category": "ram",
+    "brand": "Corsair",
+    "name": "Vengeance RGB DDR4-3200 8GB",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "type": "DDR4",
+    "sizeGb": 8,
+    "speed": 3200,
+    "sticks": 1
+  },
+  {
+    "id": "corsair-rgb-ddr4-3200-16gb",
+    "category": "ram",
+    "brand": "Corsair",
+    "name": "Vengeance RGB DDR4-3200 16GB",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "type": "DDR4",
+    "sizeGb": 16,
+    "speed": 3200,
+    "sticks": 1
+  },
+  {
+    "id": "corsair-rgb-ddr4-3200-16gb-kit-8x2",
+    "category": "ram",
+    "brand": "Corsair",
+    "name": "Vengeance RGB DDR4-3200 16GB (8×2)",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "type": "DDR4",
+    "sizeGb": 8,
+    "speed": 3200,
+    "sticks": 2
+  },
+  {
+    "id": "corsair-rgb-ddr4-3200-32gb-kit-16x2",
+    "category": "ram",
+    "brand": "Corsair",
+    "name": "Vengeance RGB DDR4-3200 32GB (16×2)",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "type": "DDR4",
+    "sizeGb": 16,
+    "speed": 3200,
+    "sticks": 2
+  }
+]

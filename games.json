@@ -1,0 +1,46 @@
+{
+  "cs2": {
+    "name": "Counter-Strike 2",
+    "image": "/images/games/cs2.jpg",
+    "genre": "Шутер",
+    "year": 2023,
+    "description": "Соревновательный командный шутер от Valve.",
+    "requirements": {
+      "min":  { "cpu": "Intel Core i5-2500K / AMD Ryzen 3 1200", "gpu": "GTX 1050 Ti / RX 560",  "ramGb": 8 },
+      "rec":  { "cpu": "Intel Core i5-9400F / AMD Ryzen 5 3600", "gpu": "RTX 2060 / RX 5600 XT", "ramGb": 16 }
+    }
+  },
+  "cyberpunk2077": {
+    "name": "Cyberpunk 2077",
+    "image": "/images/games/cyberpunk2077.jpg",
+    "genre": "RPG / Открытый мир",
+    "year": 2020,
+    "description": "Футуристическая RPG в открытом мире Найт-Сити.",
+    "requirements": {
+      "min":  { "cpu": "Intel Core i5-3570K / AMD FX-8310",      "gpu": "GTX 1060 6GB / RX 590", "ramGb": 8 },
+      "rec":  { "cpu": "Intel Core i7-12700 / AMD Ryzen 7 7800X3D", "gpu": "RTX 2060 SUPER / RX 5700 XT", "ramGb": 16 }
+    }
+  },
+  "fortnite": {
+    "name": "Fortnite",
+    "image": "/images/games/fortnite.jpg",
+    "genre": "Battle Royale",
+    "year": 2017,
+    "description": "Королевская битва с механикой строительства.",
+    "requirements": {
+      "min":  { "cpu": "Intel Core i3-3225",        "gpu": "Intel HD 4000 / GTX 660", "ramGb": 8 },
+      "rec":  { "cpu": "Intel Core i5-7300U / Ryzen 5 3600", "gpu": "GTX 1080 / RTX 3060",  "ramGb": 16 }
+    }
+  },
+  "valorant": {
+    "name": "Valorant",
+    "image": "/images/games/valorant.jpg",
+    "genre": "Шутер",
+    "year": 2020,
+    "description": "Тактический шутер от Riot Games.",
+    "requirements": {
+      "min":  { "cpu": "Intel Core 2 Duo E8400",   "gpu": "Intel HD 4000",         "ramGb": 4 },
+      "rec":  { "cpu": "Intel Core i3-4150 / Ryzen 3 1200", "gpu": "GTX 1050 Ti / RX 570", "ramGb": 8 }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "colorful-m2-1tb",
+    "category": "storage",
+    "brand": "Colorful",
+    "name": "M.2 NVMe 1TB",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "interface": "M.2 NVMe",
+    "capacityGb": 1000,
+    "readSpeed": 2400,
+    "writeSpeed": 1800
+  },
+  {
+    "id": "colorful-m2-512gb",
+    "category": "storage",
+    "brand": "Colorful",
+    "name": "M.2 NVMe 512GB",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "interface": "M.2 NVMe",
+    "capacityGb": 512,
+    "readSpeed": 2400,
+    "writeSpeed": 1600
+  },
+  {
+    "id": "wd-blue-hdd-500gb",
+    "category": "storage",
+    "brand": "WD",
+    "name": "Blue HDD 500GB",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "interface": "SATA",
+    "capacityGb": 500,
+    "readSpeed": 150,
+    "writeSpeed": 150
+  }
+]

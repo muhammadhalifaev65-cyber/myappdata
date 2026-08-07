@@ -1,0 +1,34 @@
+[
+  {
+    "id": "demo-1",
+    "name": "Демо-сборка #1",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "description": "Демонстрационная сборка. Замените содержимое в /data/builds.json.",
+    "specs": {
+      "cpu": "—",
+      "gpu": "—",
+      "motherboard": "—",
+      "ram": "—",
+      "storage": "—",
+      "psu": "—",
+      "case": "—"
+    }
+  },
+  {
+    "id": "demo-2",
+    "name": "Демо-сборка #2",
+    "price": 0,
+    "image": "/images/default/black.jpg",
+    "description": "Демонстрационная сборка. Замените содержимое в /data/builds.json.",
+    "specs": {
+      "cpu": "—",
+      "gpu": "—",
+      "motherboard": "—",
+      "ram": "—",
+      "storage": "—",
+      "psu": "—",
+      "case": "—"
+    }
+  }
+]
