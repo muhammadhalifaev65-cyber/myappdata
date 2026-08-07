@@ -5,7 +5,7 @@
     "brand": "Intel",
     "name": "Core i3-4130",
     "price": 1220,
-    "image": "/images/default/black.jpg",
+    "image": "/images/cs2.jpg",
     "socket": "LGA1150",
     "cores": 2,
     "threads": 4,
